@@ -48,8 +48,12 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![ex4 2](https://github.com/user-attachments/assets/912281d2-35d9-4528-acaa-e8cbf5049753)
+![ex4 1](https://github.com/user-attachments/assets/c8eaa9ba-4d21-41a5-9519-ccb78d446c1d)
 
 **Output Timing Waveform**
+![ex4 4](https://github.com/user-attachments/assets/7b0fab40-0043-4224-86a0-fd3e0f4b1898)
+![ex4 3](https://github.com/user-attachments/assets/c9cc6a60-4f83-4c69-9fc6-31df499b143f)
 
 **Result:**
 
